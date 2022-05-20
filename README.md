@@ -1,7 +1,7 @@
 # 사용법  
 [구글 드라이브 링크](https://drive.google.com/drive/folders/1xwmWDeJbGnc4cCJIzDjwBO6qpj23luqI)  
 ## 링크에서 pumpStep_0.4_onlyAndroid 다운로드 후 설치 (안드로이드만 가능)  
-!(./appStart.jpg)
+![앱 설명 이미지](./appStart.jpg)
 ```
 pumpStep 실행  
 S(싱글), D(더블)커테고리에서 레벨대를 선택  
