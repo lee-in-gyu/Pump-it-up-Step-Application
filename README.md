@@ -10,8 +10,7 @@
 ### Feature
 
 1. 
-2. 음료가 제조되기 전이면 언제든지 주문취소가 가능합니다.
-3. 주문 시 실시간으로 예상 대기시간과 순번이 업데이트됩니다.
+2. 
 
 ## 📱 Demo
 [구글 드라이브 링크](https://drive.google.com/drive/folders/1xwmWDeJbGnc4cCJIzDjwBO6qpj23luqI)  
