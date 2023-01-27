@@ -14,23 +14,19 @@
 
 ## 📱 Demo
 [구글 드라이브 링크](https://drive.google.com/drive/folders/1xwmWDeJbGnc4cCJIzDjwBO6qpj23luqI)  
-### 링크에서 pumpStep_0.4_onlyAndroid 다운로드 후 설치 (안드로이드만 가능)  
+### 링크에서 pumpStep_0.4_onlyAndroid 다운로드 후 설치 (안드로이드만 가능)
 ![앱 설명 이미지](./appStart.jpg)
-## ☕ Repository URL
+## 🕹️ Repository URL
 
 #### FrontEnd
 
-## ☕ Skills
+## 🕹️ Skills
 
 ### Frontend
 
-<img src="https://img.shields.io/badge/React.js-17b6e7?style=flat-square&logo=React&logoColor=white"/></a>&nbsp;
-
-### Deployment
-
-<img src="https://img.shields.io/badge/Vercel-404040?style=flat-square&logo=Vercel&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/ReactNative.js-17b6e7?style=flat-square&logo=React&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-444444?style=flat-square&logo=javascript"/></a>&nbsp;
+<img src="https://img.shields.io/badge/expo-ffffff?style=flat-square&logo=expo&logoColor=black"/></a>&nbsp;
 
 ### Tools
 
