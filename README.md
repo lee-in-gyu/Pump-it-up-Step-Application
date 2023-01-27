@@ -9,8 +9,8 @@
 
 ### Feature
 
-1.검색창 아래의 스크롤을 클릭하여 해당영상의 유튜브 링크로 이동합니다
-2.검색을 하여 특정 정보만 띄울수 있습니다
+1. 검색창 아래의 스크롤을 클릭하여 해당영상의 유튜브 링크로 이동합니다
+2. 검색을 이용하여 필터된 정보만 띄울 수 있습니다
 
 ## 📱 Demo
 [구글 드라이브 링크](https://drive.google.com/drive/folders/1xwmWDeJbGnc4cCJIzDjwBO6qpj23luqI)  
